@@ -1,0 +1,8 @@
+//
+// Created by developer_stag on 17.11.2020.
+//
+
+#ifndef GEOFENCES_PLACEMARKPARSER_H
+#define GEOFENCES_PLACEMARKPARSER_H
+
+#endif //GEOFENCES_PLACEMARKPARSER_H
